@@ -13,7 +13,13 @@
      style="float: left; margin-right: 10px;" />
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+- Authorization
+- Automated ML Experiment
+- Deploy the Best Model
+- Enable Application Insights
+- Swagger Documentation
+- Consume Model Endpoints
+- Create, Publish and Consume a Pipeline
 
 ## Screen Recording
 https://www.youtube.com/watch?v=GYfRJFXtx-Y&feature=youtu.be
