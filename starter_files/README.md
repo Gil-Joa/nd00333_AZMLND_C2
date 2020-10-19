@@ -60,9 +60,14 @@ Finally I created a pipeline and published it and consumed it.
 <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/pipeline%20endpoint%20running.PNG"
      alt="pipeline"
      style="float: left; margin-right: 10px;" />
+     
+     
+ <img src=""
+     alt="completed"
+     style="float: left; margin-right: 10px;" />
 
 ## Screen Recording
-https://www.youtube.com/watch?v=GYfRJFXtx-Y&feature=youtu.be
+https://youtu.be/DOZ6nEW_wuk
 
 ## Standout Suggestions
 In future we can include data validation to make the process more robust and accurate.
