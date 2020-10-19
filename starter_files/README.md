@@ -1,9 +1,9 @@
 *NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Operationalizing Machine Learning
+# Operationalizing Machine Learning  
 
-
+In this project we used azure machine learning studio to perform all the tasks. Firstly we selected the bankmarketing dataset and created a autoML module. After that, we ran it and find out the best model and deploy it. We enabled application insight and logging for this and consumed the model. Finally we created a pipeline and 
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
