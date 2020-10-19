@@ -3,7 +3,7 @@
 
 # Operationalizing Machine Learning  
 
-In this project we used azure machine learning studio to perform all the tasks. Firstly we selected the bankmarketing dataset and created a autoML module. After that, we ran it and find out the best model and deploy it. We enabled application insight and logging for this and consumed the model. Finally we created a pipeline and 
+In this project we used azure machine learning studio to perform all the tasks. Firstly we selected the bankmarketing dataset and created a autoML module. After that, we ran it and find out the best model and deploy it. We enabled application insight and logging for this and consumed the model endpoint. Finally we created a pipeline and consumed the pipeline. 
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
