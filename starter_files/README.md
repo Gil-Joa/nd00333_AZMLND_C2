@@ -57,13 +57,21 @@ After that we consumed model endpoint by running a script
 - Create, Publish and Consume a Pipeline  
 Finally I created a pipeline and published it and consumed it. 
 
-<img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/pipeline%20endpoint%20running.PNG"
+<img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/pipeline.PNG"
      alt="pipeline"
      style="float: left; margin-right: 10px;" />
      
      
- <img src=""
+ <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/active%20pipeline%20endpoint.PNG"
      alt="completed"
+     style="float: left; margin-right: 10px;" />
+     
+ <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/published%20pipeline%20overview%201.PNG"
+     alt="BMD automl"
+     style="float: left; margin-right: 10px;" />
+     
+ <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/ML%20Studio%20Run.PNG"
+     alt="completedd"
      style="float: left; margin-right: 10px;" />
 
 ## Screen Recording
