@@ -32,12 +32,24 @@ After uploading the data successufully I ran the experiment and found the best m
      alt="best model"
      style="float: left; margin-right: 10px;" />
      
+ <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/experiment%20completed.PNG"
+     alt="completed"
+     style="float: left; margin-right: 10px;" />
+     
      
 - Enable Application Insights  
 After deploying the best model I enabled the Application Insight to understand and collect the logs.
 
 <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/application%20insight%20enabled.PNG"
      alt="app insight"
+     style="float: left; margin-right: 10px;" />
+     
+ <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/log%20enabled.PNG"
+     alt="app log"
+     style="float: left; margin-right: 10px;" />
+     
+ <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/log%20details.PNG"
+     alt="logr"
      style="float: left; margin-right: 10px;" />
      
 - Swagger Documentation  
@@ -71,6 +83,10 @@ Finally I created a pipeline and published it and consumed it.
      style="float: left; margin-right: 10px;" />
      
  <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/ML%20Studio%20Run.PNG"
+     alt="completedd"
+     style="float: left; margin-right: 10px;" />
+     
+ <img src="https://github.com/Gil-Joa/nd00333_AZMLND_C2/blob/master/starter_files/ml%20studio%20completed.PNG"
      alt="completedd"
      style="float: left; margin-right: 10px;" />
 
